@@ -11,7 +11,7 @@ async function start() {
     
     const completion = await openai.createChatCompletion({
       model: "gpt-3.5-turbo",
-      "messages": [{"role": "user", "content": "幫我翻譯成英文:維尼熊 大頭照"}]
+      "messages": [{"role": "user", "content": "維尼熊 大頭照"}]
     });
 
     console.log(completion.data.choices[0].message.content.substring(2));
