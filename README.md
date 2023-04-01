@@ -1,13 +1,13 @@
 # icecubes_openai
 
-### 1.google app script : line bot 利用 google app script 製作openai chatGPT & 產圖程式
+### 1.google app script : line bot 利用 google app script 製作openai chat-3.5 & 產圖程式
 ### 2.基本串接openai node.js
 
 ### [line機器人](https://liff.line.me/1645278921-kWRPP32q/?accountId=092byusf)
 ### [拿錢砸我](https://p.ecpay.com.tw/8E29ABF)
 
 --------------
-## 1.google app script : line bot 利用 google app script 製作openai chatGPT & 產圖程式
+## 1.google app script : line bot 利用 google app script 製作openai chat-3.5 & 產圖程式
 
 ### 需求安裝
 #### [DocsServiceApp](https://github.com/tanaikech/DocsServiceApp) :`108j6x_ZX544wEhGkgddFYM6Ie09edDqXaFwnW3RVFQCLHw_mEueqUHTW`
